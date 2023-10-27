@@ -1,0 +1,26 @@
+{
+  "Abi": [
+    {
+      "message": "Hi",
+      "dateTime": "22/01/2021",
+      "userType": "sender"
+    },
+    {
+      "message": "Hi!",
+      "dateTime": "22/01/2021",
+      "userType": "reciever"
+    }
+  ],
+  "Anu": [
+    {
+      "message": "Hi",
+      "dateTime": "22/01/2021",
+      "userType": "sender"
+    },
+    {
+      "message": "Hi!",
+      "dateTime": "22/01/2021",
+      "userType": "reciever"
+    }
+  ]
+}
